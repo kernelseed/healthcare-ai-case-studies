@@ -1,6 +1,6 @@
 # AI-Driven Claims Optimization: How Machine Learning Is Recovering Hundreds of Millions in Lost Revenue
 
-> **Author:** YOUR_FULL_NAME | YOUR_PROFESSIONAL_TITLE  
+> **Author:** Pravinkumar Selvamuthu | AIML Engineer  
 > **Published:** March 26, 2026  
 > **Tags:** `HealthcareAI`, `ClaimsOptimization`, `RevenueIntegrity`, `RCMTechnology`, `HealthIT`
 
