@@ -1,6 +1,6 @@
 # Healthcare AI Case Studies
 
-> Published by **YOUR_FULL_NAME** | YOUR_PROFESSIONAL_TITLE
+> Published by Pravinkumar Selvamuthu | AIML Engineer
 > GitHub: [kernalseed](https://github.com/kernalseed)
 
 A curated collection of enterprise Healthcare AI engineering case studies demonstrating
