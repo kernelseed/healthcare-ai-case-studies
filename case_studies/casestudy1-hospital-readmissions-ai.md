@@ -6,6 +6,7 @@
 
 ---
 
+> **Category:** Clinical Operations
 > **How agentic AI, real-time EHR integration, and predictive scoring are keeping high-risk patients out of the ER — and saving health systems millions.**
 
 **Pravin Kumar S** · AI/ML Engineer · Healthcare Technology  
