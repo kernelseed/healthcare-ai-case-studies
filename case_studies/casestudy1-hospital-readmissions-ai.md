@@ -1,6 +1,6 @@
 # Preventing Hospital Readmissions with AI: An Engineering Playbook
 
-> **Author:** YOUR_FULL_NAME | YOUR_PROFESSIONAL_TITLE  
+> **Author:** Pravinkumar Selvamuthu | AIML Engineer  
 > **Published:** March 26, 2026  
 > **Tags:** `HealthcareAI`, `HospitalReadmissions`, `AIinHealthcare`, `HealthIT`, `AIMLEngineer`
 
